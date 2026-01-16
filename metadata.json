@@ -1,0 +1,8 @@
+{
+  "name": "VeloxCodeAgency",
+  "description": "A premium AI-driven web agency landing page and client dashboard featuring 3D visuals, smooth animations, and AI-powered support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
