@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { motion } from 'framer-motion';
 import { SEO } from '../components/SEO';
-import { getData, addData } from '../api';
+import { getData, addData } from '../src/api';
 
 const stats = [
   { label: 'Active Projects', value: '2' },
